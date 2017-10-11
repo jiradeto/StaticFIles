@@ -17,7 +17,7 @@
   
   
   <Placemark>
-	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#japan_ver81_003_1">
 		<SimpleData name="JCODE">01101</SimpleData>
 		<SimpleData name="KEN">北海道</SimpleData>
